@@ -19,3 +19,8 @@
 
 ### 
 uWSGI and Nginx
+
+## TODO
+### Version 0.1
+- Remove hardcode input and output
+- Create a schedule by carton order due date
