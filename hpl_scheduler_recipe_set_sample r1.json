@@ -1,0 +1,174 @@
+{
+	"Recipe_quantity": "3",
+	"Recipes":
+	
+	[
+		{
+			"Recipes_Index":"1",
+			"Product_Type": "Diabetic",
+			"Setup_Time": "04-01-2020  8:45:00 AM",
+			"Start_Time": "04-01-2020  9:00:00 AM",
+			"End_Time": "04-01-2020  9:09:00 AM",
+
+			"Large_Hopper_Position_1": 
+
+			{
+				"LHP1_ID": "P1",
+				"LHP1_Ingredient": "Brown Rice",
+				"LHP1_Quantity": "5"
+			},
+			
+			"Large_Hopper_Position_2":
+
+			{
+				"LHP2_ID": "P2",
+				"LHP2_Ingredient": "Brown Rice",
+				"LHP2_Quantity": "2"
+			},
+			
+			"Large_Hopper_Position_3":
+
+			{
+				"LHP3_ID": "P3",
+				"LHP3_Ingredient": "Oil Powder",
+				"LHP3_Quantity": "3"
+			},
+
+			"Small_Hopper_Position_1":
+
+			{
+				"SHP1_ID": "P7",
+				"SHP1_Ingredient": "Cardiovascular (E1)",
+				"SHP1_Quantity": "1"
+			},
+
+			"Small_Hopper_Position_2":
+
+			{
+				"SHP2_ID": "P8",
+				"SHP2_Ingredient": "Brain (F1)",
+				"SHP2_Quantity": "0.5"
+			},
+
+			"Small_Hopper_Position_3":
+
+			{
+				"SHP3_ID": "P9",
+				"SHP3_Ingredient": "Wellness (B)",
+				"SHP3_Quantity": "1"
+			}
+		},
+		
+		{
+			"Recipes_Index":"2",
+			"Product_Type": "Actimax",
+			"Setup_Time": "04-01-2020  9:10:00 AM",
+			"Start_Time": "04-01-2020  9:25:00 AM",
+			"End_Time": "04-01-2020  9:55:00 AM",
+
+			"Large_Hopper_Position_1": 
+
+			{
+				"LHP1_ID": "P1",
+				"LHP1_Ingredient": "Brown Rice",
+				"LHP1_Quantity": "5"
+			},
+			
+			"Large_Hopper_Position_2":
+
+			{
+				"LHP2_ID": "P2",
+				"LHP2_Ingredient": "Brown Rice",
+				"LHP2_Quantity": "2"
+			},
+			
+			"Large_Hopper_Position_3":
+
+			{
+				"LHP3_ID": "P3",
+				"LHP3_Ingredient": "Oil Powder",
+				"LHP3_Quantity": "2"
+			},
+
+			"Small_Hopper_Position_1":
+
+			{
+				"SHP1_ID": "P10",
+				"SHP1_Ingredient": "Recovery (A)",
+				"SHP1_Quantity": "0.5"
+			},
+
+			"Small_Hopper_Position_2":
+
+			{
+				"SHP2_ID": "P9",
+				"SHP2_Ingredient": "Wellness (B)",
+				"SHP2_Quantity": "0.5"
+			},
+
+			"Small_Hopper_Position_3":
+
+			{
+				"SHP3_ID": "P11",
+				"SHP3_Ingredient": "Performance (D)",
+				"SHP3_Quantity": "0.5"
+			}
+		},
+		
+		{
+			"Recipes_Index":"3",
+			"Product_Type": "Spicy Hotsa",
+			"Setup_Time": "04-01-2020  2:55:00 PM",
+			"Start_Time": "04-01-2020  3:25:00 PM",
+			"End_Time": "04-01-2020  3:55:00 PM",
+
+			"Large_Hopper_Position_1": 
+
+			{
+				"LHP1_ID": "L1",
+				"LHP1_Ingredient": "Brown Sauce",
+				"LHP1_Quantity": "5"
+			},
+			
+			"Large_Hopper_Position_2":
+
+			{
+				"LHP2_ID": "L2",
+				"LHP2_Ingredient": "Black Sauce",
+				"LHP2_Quantity": "5"
+			},
+			
+			"Large_Hopper_Position_3":
+
+			{
+				"LHP3_ID": "L3",
+				"LHP3_Ingredient": "Red Sauce",
+				"LHP3_Quantity": "5"
+			},
+
+			"Small_Hopper_Position_1":
+
+			{
+				"SHP1_ID": "L7",
+				"SHP1_Ingredient": "Thickener",
+				"SHP1_Quantity": "2"
+			},
+
+			"Small_Hopper_Position_2":
+
+			{
+				"SHP2_ID": "L8",
+				"SHP2_Ingredient": "Chilli Oil",
+				"SHP2_Quantity": "2"
+			},
+
+			"Small_Hopper_Position_3":
+
+			{
+				"SHP3_ID": "L9",
+				"SHP3_Ingredient": "Salt Water",
+				"SHP3_Quantity": "2"
+			}
+		}
+	]
+}
