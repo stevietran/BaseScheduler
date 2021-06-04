@@ -1,0 +1,44 @@
+{
+    "ProductList": [
+        {
+            "ProductId": 1,
+            "RecipeNo": "20PE02abcL001AA",
+            "ProductName": "ActiMax:Recover/Perform/Wellness Immunity (Large)",
+            "ProductType": "ActiMax",
+            "ProductSize": "Large",
+            "ProductCatogory": "Powder"
+        },
+        {
+            "ProductId": 2,
+            "RecipeNo": "20QE07jmpM001AA",
+            "ProductName": "Spick & Creamy: Dip/Original/Min Salt",
+            "ProductType": "Spick & Creamy",
+            "ProductSize": "Medium",
+            "ProductCatogory": "Liquid"
+        },
+        {
+            "ProductId": 3,
+            "RecipeNo": "90000002",
+            "ProductName": "Milo",
+            "ProductType": "Milo",
+            "ProductSize": "None",
+            "ProductCatogory": "Standard"
+        }
+    ],
+    "BOMs": [
+        {
+            "BOMId": 1,
+            "RecipeNo": "20PE02abcL001AA",
+            "IngredientName": "Brown Rice",
+            "Qty": 36,
+            "IngredientType": "Main"
+        },
+        {
+            "BOMId": 2,
+            "RecipeNo": "20PE02abcL001AA",
+            "IngredientName": "Recovery",
+            "Qty": 5,
+            "IngredientType": "Additive"
+        }
+    ]
+}

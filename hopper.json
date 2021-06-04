@@ -1,0 +1,28 @@
+{
+    "Hopper": [
+        {"HopperId": "PS1", "Availability": "True", "HopperType": "Small", "ProductType": "Powder"},
+        {"HopperId": "PS2", "Availability": "True", "HopperType": "Small", "ProductType": "Powder"},
+        {"HopperId": "PS3", "Availability": "True", "HopperType": "Small", "ProductType": "Powder"},
+        {"HopperId": "PS4", "Availability": "True", "HopperType": "Small", "ProductType": "Powder"},
+        {"HopperId": "PS5", "Availability": "True", "HopperType": "Small", "ProductType": "Powder"},
+        {"HopperId": "PS6", "Availability": "True", "HopperType": "Small", "ProductType": "Powder"},
+        {"HopperId": "PL1", "Availability": "True", "HopperType": "Large", "ProductType": "Powder"},
+        {"HopperId": "PL2", "Availability": "True", "HopperType": "Large", "ProductType": "Powder"},
+        {"HopperId": "PL3", "Availability": "True", "HopperType": "Large", "ProductType": "Powder"},
+        {"HopperId": "PL4", "Availability": "True", "HopperType": "Large", "ProductType": "Powder"},
+        {"HopperId": "PL5", "Availability": "True", "HopperType": "Large", "ProductType": "Powder"},
+        {"HopperId": "PL6", "Availability": "True", "HopperType": "Large", "ProductType": "Powder"},
+        {"HopperId": "LS1", "Availability": "True", "HopperType": "Small", "ProductType": "Liquid"},
+        {"HopperId": "LS2", "Availability": "True", "HopperType": "Small", "ProductType": "Liquid"},
+        {"HopperId": "LS3", "Availability": "True", "HopperType": "Small", "ProductType": "Liquid"},
+        {"HopperId": "LS4", "Availability": "True", "HopperType": "Small", "ProductType": "Liquid"},
+        {"HopperId": "LS5", "Availability": "True", "HopperType": "Small", "ProductType": "Liquid"},
+        {"HopperId": "LS6", "Availability": "True", "HopperType": "Small", "ProductType": "Liquid"},
+        {"HopperId": "LL1", "Availability": "True", "HopperType": "Large", "ProductType": "Liquid"},
+        {"HopperId": "LL2", "Availability": "True", "HopperType": "Large", "ProductType": "Liquid"},
+        {"HopperId": "LL3", "Availability": "True", "HopperType": "Large", "ProductType": "Liquid"},
+        {"HopperId": "LL4", "Availability": "True", "HopperType": "Large", "ProductType": "Liquid"},
+        {"HopperId": "LL5", "Availability": "True", "HopperType": "Large", "ProductType": "Liquid"},
+        {"HopperId": "LL6", "Availability": "True", "HopperType": "Large", "ProductType": "Liquid"}
+        ]
+}

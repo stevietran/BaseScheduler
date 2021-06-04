@@ -1,0 +1,133 @@
+{
+	"Order_quantity": "2",
+	"Orders":
+	[
+		{
+			"Orders_Index":"1",
+			"Order_ID": "SO_10001",
+			"Order_date": "200608",
+			"Order_due_date": "200611",
+			"Order_production_date": "200611",
+
+			"Carton_Quantity": "1",
+	
+			"Carton_Orders":
+			[
+				{
+					"Carton_Orders_Index": "1",
+					"Carton_ID": "SO_10001_200611_001",
+					"Carton_size": "S",
+
+					"SKU_Quantity": "3",
+					"SKU_ID":
+					[
+						{
+							"SKU_INDEX": "1",
+							"SKU_ID": "90000002",
+							"SKU_Pouch_ID": "0" 
+						},
+				
+						{
+							"SKU_INDEX": "2",
+							"SKU_ID": "90000002", 
+							"SKU_Pouch_ID": "0"
+						}, 
+
+						{
+							"SKU_INDEX": "3", 
+							"SKU_ID": "20PE03befL001AA", 
+							"SKU_Pouch_ID": "SO_10001_200611_001_01"
+						}
+					]
+				}
+			]
+		},
+		{
+			"Orders_Index":"2",
+			"Order_ID": "SO_10002",
+			"Order_date": "200608",
+			"Order_due_date": "200611",
+			"Order_production_date": "200611",
+
+			"Carton_Quantity": "2",
+	
+			"Carton_Orders":
+			[
+				{
+					"Carton_Orders_Index": "1",
+					"Carton_ID": "SO_10002_200611_001",
+					"Carton_size": "S",
+
+					"SKU_Quantity": "4",
+					"SKU_ID":
+					[
+						{
+							"SKU_INDEX": "1",
+							"SKU_ID": "90000002",
+							"SKU_Pouch_ID": "0" 
+						},
+				
+						{
+							"SKU_INDEX": "2",
+							"SKU_ID": "90000002", 
+							"SKU_Pouch_ID": "0"
+						}, 
+
+						{
+							"SKU_INDEX": "3", 
+							"SKU_ID": "20PE03befL001AA", 
+							"SKU_Pouch_ID": "SO_10001_200611_001_01"
+						},
+						
+						{
+							"SKU_INDEX": "4", 
+							"SKU_ID": "20PE03befL001AA", 
+							"SKU_Pouch_ID": "SO_10001_200611_001_02"
+						}
+					]
+				},
+				
+				{
+					"Carton_Orders_Index": "2",
+					"Carton_ID": "SO_10002_200611_002",
+					"Carton_size": "S",
+
+					"SKU_Quantity": "5",
+					"SKU_ID":
+					[
+						{
+							"SKU_INDEX": "1",
+							"SKU_ID": "90000002",
+							"SKU_Pouch_ID": "0" 
+						},
+				
+						{
+							"SKU_INDEX": "2",
+							"SKU_ID": "90000002", 
+							"SKU_Pouch_ID": "0"
+						}, 
+
+						{
+
+							"SKU_INDEX": "3", 
+							"SKU_ID": "20PE03befL001AA", 
+							"SKU_Pouch_ID": "SO_10001_200611_002_01"
+						},
+						
+						{
+							"SKU_INDEX": "4", 
+							"SKU_ID": "20PE03befL001AA", 
+							"SKU_Pouch_ID": "SO_10001_200611_002_02"
+						},
+						
+						{
+							"SKU_INDEX": "5", 
+							"SKU_ID": "20PE03befL001AA", 
+							"SKU_Pouch_ID": "SO_10001_200611_002_03"
+						}
+					]
+				}
+			]
+		}
+	]
+}
