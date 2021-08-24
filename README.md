@@ -1,3 +1,9 @@
+The project deploys a Web API served as a scheduler microservice for a manufacturing executive system. Features of the system are:
+-- Utilise uWSGI and Nginx for hosting the API
+-- Documented by swagger module
+-- Utilise SQLite as the database engine to store and process data
+-- Data modelling with SQLAlchemy
+connexion
 ## Requirements
 -- client sends an API request with all carton orders needed to be filled
 -- sever response with a sequence of carton order
