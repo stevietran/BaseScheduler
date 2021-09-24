@@ -11,7 +11,7 @@ The project deploys a Web API served as a scheduler microservice for a manufactu
 - Use content in `sample.json` file to test the API
 
 ## API: /schedule
-![Alt text](misc\ui.PNG)
+![Alt text](https://github.com/stevietran/SchedulerWebAPI/blob/master/misc/ui.PNG)
 
 Overview
 - client sends an API request with all carton orders needed to be filled
